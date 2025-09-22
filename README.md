@@ -54,17 +54,17 @@ The API will then be available at `http://localhost:8080`.
 **2. Getting All Tasks (GET /tasks)**
 ![Get All Tasks](screenshots/postman/GetAllTasks.png)
 
-**3. Getting a Single Task (GET /tasks/{id})**
-![Get Single Task](screenshots/postman/GetSingleTask.png)
-
-**4.Getting a task (findByName)**
+**3.Getting a task (findByName)**
 ![Search by ID](screenshots/postman/SearchById.png)
 
-**5.tasks/{id}/(execute)**
+**4.tasks/{id}/(execute)**
 ![Execute](screenshots/postman/Execute.png)
 
-**tasks/{id}(Delete)**
+**5.tasks/{id}(Delete)**
 ![Delete](screenshots/postman/Delete.png)
+
+**6.Deleted Verification**
+![Verification](screenshots/postman/Delete_Verification.png)
 
 
 ### CURL
