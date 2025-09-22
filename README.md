@@ -58,7 +58,7 @@ The API will then be available at `http://localhost:8080`.
 ![Get Single Task](screenshots/postman/GetSingleTask.png)
 
 **4.Getting a task (findByName)**
-![Search by ID](screenshots/postman/SearchByID.png)
+![Search by ID](screenshots/postman/SearchById.png)
 
 **5.tasks/{id}/(execute)**
 ![Execute](screenshots/postman/Execute.png)
