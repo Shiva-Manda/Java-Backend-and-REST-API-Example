@@ -49,7 +49,8 @@ The API will then be available at `http://localhost:8080`.
 
 
 **1. Creating a Task (PUT /tasks)**
-![Create Task](screenshots/postman/create_task1.png)(screenshots/create_task2.png)
+![Create Task](screenshots/postman/create_task1.png)
+![Create Task](screenshots/create_task2.png)
 
 **2. Getting All Tasks (GET /tasks)**
 ![Get All Tasks](screenshots/postman/GetAllTasks.png)
